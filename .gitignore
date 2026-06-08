@@ -1,0 +1,9 @@
+*.log
+*.mp4
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Keep development-only card exports out of the public release repo.
+wechat-test-card*.json
+wechat-test-card*.png
